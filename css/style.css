@@ -1,0 +1,43 @@
+div#map {
+    height: 400px;
+    width: 100%;
+}
+
+div.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+div.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+div.legend {
+    line-height: 18px;
+    color: #555;
+}
+
+div.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.leaflet-right {
+        width: 100%;
+    }
+    div.leaflet-control-attribution.leaflet-control {
+        font-size: .75em;
+        padding: 10px 0px;
+        text-align: center;
+        width: 100%;
+    }
+}

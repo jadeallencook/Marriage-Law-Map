@@ -1,0 +1,512 @@
+{
+    "Alabama": {
+        "total": 8657,
+        "minimum": 16,
+        "youngest": 14,
+        "range": "2000-2014",
+        "judicial": "All minors",
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Alaska": {
+        "total": 756,
+        "minimum": 14,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": "Under 16",
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Arizona": {
+        "total": 4767,
+        "minimum": 16,
+        "youngest": 15,
+        "range": "2000-2015",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Arkansas": {
+        "total": 7512,
+        "minimum": 0,
+        "youngest": 16,
+        "range": "2000-2014",
+        "judicial": "Under 16 (girls)/Under17 (boys)",
+        "consent": false,
+        "pregnancy": true,
+        "sex": false
+    },
+    "California": {
+        "total": null,
+        "minimum": 0,
+        "youngest": 17,
+        "range": null,
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Colorado": {
+        "total": 4813,
+        "minimum": 0,
+        "youngest": 13,
+        "range": "2000-2014",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Connecticut": {
+        "total": 1211,
+        "minimum": 16,
+        "youngest": 13,
+        "range": "2000-2015",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Delaware": {
+        "total": 204,
+        "minimum": 18,
+        "youngest": null,
+        "range": "2000-2011",
+        "judicial": null,
+        "consent": null,
+        "pregnancy": false,
+        "sex": true
+    },
+    "District of Columbia": {
+        "total": null,
+        "minimum": 16,
+        "youngest": null,
+        "range": null,
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Florida": {
+        "total": 16486,
+        "minimum": 17,
+        "youngest": 15,
+        "range": "2000-2015",
+        "judicial": "All minors",
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Georgia": {
+        "total": null,
+        "minimum": 16,
+        "youngest": null,
+        "range": null,
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Hawaii": {
+        "total": 721,
+        "minimum": 15,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": "Under 16",
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Idaho": {
+        "total": 4752,
+        "minimum": 0,
+        "youngest": 16,
+        "range": "2000-2015",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Illinois": {
+        "total": 7005,
+        "minimum": 16,
+        "youngest": 14,
+        "range": "2000-2013",
+        "judicial": "Special Circumstances",
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Indiana": {
+        "total": 3108,
+        "minimum": 15,
+        "youngest": 14,
+        "range": "2000-2014",
+        "judicial": "Under 17",
+        "consent": true,
+        "pregnancy": true,
+        "sex": false
+    },
+    "Iowa": {
+        "total": 1260,
+        "minimum": 16,
+        "youngest": 14,
+        "range": "2000-2014",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Kansas": {
+        "total": 2916,
+        "minimum": 15,
+        "youngest": 15,
+        "range": "2000-2014",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Kentucky": {
+        "total": 10618,
+        "minimum": 17,
+        "youngest": 15,
+        "range": "2000-2015",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": true,
+        "sex": false
+    },
+    "Louisiana": {
+        "total": 4532,
+        "minimum": 0,
+        "youngest": 15,
+        "range": "2000-2010",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Maine": {
+        "total": null,
+        "minimum": 0,
+        "youngest": 16,
+        "range": null,
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Maryland": {
+        "total": 3134,
+        "minimum": 15,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": true,
+        "sex": false
+    },
+    "Massachusetts": {
+        "total": 1063,
+        "minimum": 0,
+        "youngest": 15,
+        "range": "2000-2013",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Michigan": {
+        "total": 5263,
+        "minimum": 0,
+        "youngest": 12,
+        "range": "2000-2014",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Minnesota": {
+        "total": 483,
+        "minimum": 16,
+        "youngest": 13,
+        "range": "2000-2003",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Mississippi": {
+        "total": 4289,
+        "minimum": 0,
+        "youngest": 14,
+        "range": "2000-2014",
+        "judicial": "Under 15 (girls)/ Under 17 (boys)",
+        "consent": false,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Missouri": {
+        "total": 7341,
+        "minimum": 0,
+        "youngest": 15,
+        "range": "2000-2014",
+        "judicial": "Under 15",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Montana": {
+        "total": 463,
+        "minimum": 16,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Nebraska": {
+        "total": 1133,
+        "minimum": 17,
+        "youngest": 17,
+        "range": "2000-2014",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Nevada": {
+        "total": 5147,
+        "minimum": 0,
+        "youngest": 14,
+        "range": "2005-2015",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "New Hampshire": {
+        "total": 185,
+        "minimum": 13,
+        "youngest": 13,
+        "range": "2000-2014",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "New Jersey": {
+        "total": 2076,
+        "minimum": 18,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": null,
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "New Mexico": {
+        "total": 7007,
+        "minimum": 0,
+        "youngest": 13,
+        "range": "2000-2013",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": true,
+        "sex": true
+    },
+    "New York": {
+        "total": 3850,
+        "minimum": 17,
+        "youngest": 12,
+        "range": "2000-2010",
+        "judicial": "All minors",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "North Carolina": {
+        "total": null,
+        "minimum": 14,
+        "youngest": 16,
+        "range": null,
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": true,
+        "sex": true
+    },
+    "North Dakota": {
+        "total": 280,
+        "minimum": 16,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Ohio": {
+        "total": 4660,
+        "minimum": 0,
+        "youngest": 13,
+        "range": "2000-2014",
+        "judicial": "Under 16 (girls)/Under 17 (boys)",
+        "consent": true,
+        "pregnancy": true,
+        "sex": true
+    },
+    "Oklahoma": {
+        "total": null,
+        "minimum": 0,
+        "youngest": null,
+        "range": null,
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": true,
+        "sex": false
+    },
+    "Oregon": {
+        "total": 3284,
+        "minimum": 17,
+        "youngest": 14,
+        "range": "2000-2014",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Pennsylvania": {
+        "total": null,
+        "minimum": 0,
+        "youngest": null,
+        "range": null,
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Rhode Island": {
+        "total": 14,
+        "minimum": 0,
+        "youngest": 14,
+        "range": "2013-2015",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "South Carolina": {
+        "total": 5210,
+        "minimum": 16,
+        "youngest": 16,
+        "range": "2000-2015",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "South Dakota": {
+        "total": 741,
+        "minimum": 16,
+        "youngest": 14,
+        "range": "2000-2014",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Tennessee": {
+        "total": 8413,
+        "minimum": 17,
+        "youngest": 14,
+        "range": "2000-2014",
+        "judicial": "Under 16",
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Texas": {
+        "total": 40260,
+        "minimum": 16,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": "All minors",
+        "consent": false,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Utah": {
+        "total": 4386,
+        "minimum": 15,
+        "youngest": 14,
+        "range": "2000-2010",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Vermont": {
+        "total": 231,
+        "minimum": 16,
+        "youngest": 13,
+        "range": "2000-2013",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Virginia": {
+        "total": 7542,
+        "minimum": 16,
+        "youngest": 14,
+        "range": "2000-2013",
+        "judicial": "All minors",
+        "consent": false,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Washington": {
+        "total": 4408,
+        "minimum": 0,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": "Under 17",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "West Virginia": {
+        "total": 3270,
+        "minimum": 0,
+        "youngest": null,
+        "range": "2000-2014",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": true
+    },
+    "Wisconsin": {
+        "total": 2808,
+        "minimum": 16,
+        "youngest": 15,
+        "range": "2000-2014",
+        "judicial": false,
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    },
+    "Wyoming": {
+        "total": 1200,
+        "minimum": 0,
+        "youngest": 12,
+        "range": "2000-2015",
+        "judicial": "Under 16",
+        "consent": true,
+        "pregnancy": false,
+        "sex": false
+    }
+}
