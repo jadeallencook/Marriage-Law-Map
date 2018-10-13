@@ -46,7 +46,7 @@
         "range": null,
         "judicial": "All minors",
         "consent": true,
-        "pregnancy": false,
+        "pregnancy": true,
         "sex": false
     },
     "Colorado": {
@@ -251,10 +251,10 @@
     },
     "Missouri": {
         "total": 7341,
-        "minimum": 0,
+        "minimum": 16,
         "youngest": 15,
         "range": "2000-2014",
-        "judicial": "Under 15",
+        "judicial": "All minors",
         "consent": true,
         "pregnancy": false,
         "sex": true
@@ -291,7 +291,7 @@
     },
     "New Hampshire": {
         "total": 185,
-        "minimum": 13,
+        "minimum": "13 (female)/ 14 (male)",
         "youngest": 13,
         "range": "2000-2014",
         "judicial": "All minors",
@@ -304,7 +304,7 @@
         "minimum": 18,
         "youngest": null,
         "range": "2000-2014",
-        "judicial": null,
+        "judicial": "Not Applicable",
         "consent": false,
         "pregnancy": false,
         "sex": false
@@ -350,7 +350,7 @@
         "sex": false
     },
     "Ohio": {
-        "total": 4660,
+        "total": 4443,
         "minimum": 0,
         "youngest": 13,
         "range": "2000-2014",
@@ -431,7 +431,7 @@
     },
     "Texas": {
         "total": 40260,
-        "minimum": 16,
+        "minimum": "16 (emancipated minors only)",
         "youngest": null,
         "range": "2000-2014",
         "judicial": "All minors",
@@ -461,7 +461,7 @@
     },
     "Virginia": {
         "total": 7542,
-        "minimum": 16,
+        "minimum": "16 (emancipated minors only)",
         "youngest": 14,
         "range": "2000-2013",
         "judicial": "All minors",
