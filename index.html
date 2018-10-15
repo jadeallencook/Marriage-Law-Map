@@ -42,6 +42,7 @@
         div.leaflet-right {
             width: 100%
         }
+
         div.leaflet-control-attribution.leaflet-control {
             font-size: .75em;
             padding: 10px 0;
@@ -147,7 +148,9 @@
             if (n && leg[n]) {
                 this._div.innerHTML += "<br /><b>Legislation: </b>" + leg[n].status.charAt(0).toUpperCase() +
                     leg[n].status.slice(1);
-                if (leg[n]["status-in-leg"]) this._div.innerHTML += " (" + leg[n]["status-in-leg"] + ")";
+                if (leg[n]["status-in-leg"]) {
+                    this._div.innerHTML += " (" + leg[n]["status-in-leg"] + ")";
+                }
                 var bills = leg[n]['bill-num'];
                 if (bills) {
                     bills = bills.split('/');
@@ -161,6 +164,38 @@
                         'edited-details'
                     ] + "</i>";
                 }
+                if (leg[n + ' 2']) {
+                    this._div.innerHTML += '<br /><br />';
+                    var next = document.createElement('a');
+                    next.innerText = 'Next Bill';
+                    next.style.fontWeight = 'bold';
+                    this._div.appendChild(next);
+                    next.onclick = function () {
+                        var bill = leg[n + ' 2'];
+                        this._div.innerHTML = this._div.innerHTML.substr(0, this._div.innerHTML.indexOf(
+                            'Legislation:'));
+                        this._div.innerHTML += "<b>Legislation: </b>" + bill.status.charAt(0).toUpperCase() +
+                            bill.status.slice(1);
+                        if (bill["status-in-leg"]) {
+                            this._div.innerHTML += " (" + bill["status-in-leg"] + ")";
+                        }
+                        var bills = bill['bill-num'];
+                        if (bills) {
+                            bills = bills.split('/');
+                            var links = bill['links'].split(';');
+                            this._div.innerHTML += "<br /><b>Bills: </b>";
+                            for (var x = 0; x < bills.length; x++) {
+                                this._div.innerHTML += '<a href="' + links[x] + '" target="_blank">' +
+                                    bills[x] +
+                                    '</a> ';
+                            }
+                            if (bill['edited-details']) this._div.innerHTML += "<br /><br /><i>" +
+                                bill[
+                                    'edited-details'
+                                ] + "</i>";
+                        }
+                    }.bind(this);
+                }
             }
         }, a.addTo(n);
         var d = L.control({
@@ -168,7 +203,8 @@
         });
         d.onAdd = function (e) {
             for (var n = L.DomUtil.create("div", "info legend"), t = [18, 17, 16, 15, null], i = 0; i < t.length; i++) {
-                n.innerHTML += '<i style="background:' + o(t[i]) + '"></i> ', n.innerHTML += null === t[i] ? "<<br />" : t[i] + "<br />";
+                n.innerHTML += '<i style="background:' + o(t[i]) + '"></i> ', n.innerHTML += null === t[i] ?
+                    "<<br />" : t[i] + "<br />";
             }
             return n;
         }, d.addTo(n)

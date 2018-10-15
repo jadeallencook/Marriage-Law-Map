@@ -17,7 +17,7 @@
         "edited-details": "SB133 would have eliminated marriage before 18, with exceptions for emancipated minors and the military exception already in law. The bill died at the end of the legislative session in March 2018.",
         "would-have-ended-all": "n",
         "date": "2018-01-01T07:00:00.000Z",
-        "unchained-details": "In Jan. 2018, Sen. Berta Gardner introduced SB133 to reduce child marriage: It would have eliminated marriage before 18, but still allow emancipated minors to marry. SB133 also would have kept the dangerous military exception in Alaskaâ€™s current marriage-age law. But the senate never voted on it, and the bill died at the end of the legislative session in March 2018."
+        "unchained-details": "In Jan. 2018, Sen. Berta Gardner introduced SB133 to reduce child marriage: It would have eliminated marriage before 18, but still allow emancipated minors to marry. SB133 also would have kept the dangerous military exception in Alaska's current marriage-age law. But the senate never voted on it, and the bill died at the end of the legislative session in March 2018."
     },
     "Arizona": {
         "status": "limits child marriage",
@@ -48,6 +48,16 @@
         "would-have-ended-all": "y",
         "date": "Current",
         "unchained-details": "On Mar. 17, 2017, Sen. Jerry Hill introduced SB273 to end all marriage before 18, without exceptions. Unfortunately, the bill was later amended repeatedly and weakened to the point where Unchained fears it would do more harm than good. A version of the weakened bill passed unanimously in the senate in May; the bill is now pending in the assembly. Unchained urges legislators to vote NO on the current version of SB273. An unmarried person under 18 years of age may be issued a marriage license upon obtaining a court order granting permission; by court order if one or both of the parties are 15 years of age or younger, the parties shall be eligible to request a marriage license no earlier than 30 days from the time the court order was issued."
+    },
+    "California 2": {
+        "status": "changed exceptions",
+        "status-in-leg": "Passed",
+        "bill-num": "AB2882",
+        "links": "https://legiscan.com/CA/text/AB2882/id/1430375/California-2015-AB2882-Chaptered.html",
+        "edited-details": "AB2882 requires consent from at least one parent in addition to the already state mandated court order for underage marriage.",
+        "would-have-ended-all": "n",
+        "date": "2016-09-01T06:00:00.000Z",
+        "unchained-details": "This bill would instead require the court order and written\nconsent of at least one of the parents or the guardian of each\nunderage person to be filed with the clerk of the court, not just the court order"
     },
     "Colorado": {
         "status": "no action",
@@ -259,6 +269,16 @@
         "date": "2018-01-01T07:00:00.000Z",
         "unchained-details": "In Jan. 2018, Rep. Jean Evans introduced HB1630, to limit child marriage, as a reintroduction of a bill that died in the previous legislative session. HB1630 later died. "
     },
+    "Missouri 2": {
+        "status": "limits child marriage",
+        "status-in-leg": "Passed",
+        "bill-num": "SB655",
+        "links": "http://senate.mo.gov/18info/BTS_Web/Bill.aspx?SessionType=R&BillID=69471940",
+        "edited-details": "Unrelated bill SB655 ended child marriage for children 15 and younger, and bars anyone older than 21 from marrying a minor.",
+        "would-have-ended-all": "n",
+        "date": "2018-07-01T06:00:00.000Z",
+        "unchained-details": "In May 2018, Rep. Evans amended an unrelated bill, SB655, to end child marriage for children 15 and younger. SB655 would allow 16- and 17-year-olds to marry with parental consent, and would bar anyone older than 21 from marrying anyone younger than 18. The bill heads to the governor's desk."
+    },
     "Montana": {
         "status": "no action",
         "status-in-leg": 0,
@@ -299,6 +319,16 @@
         "date": "2017-03-01T07:00:00.000Z",
         "unchained-details": "In Jan. 2017, Rep. Jacalyn Cilley introduced HB499. At first the bill allowed 16- and 17-year-olds to marry, but it was later amended to eliminate all child marriage. The House of Representatives voted no in March 2017 and blocked the bill from being reintroduced. "
     },
+    "New Hampshire 2": {
+        "status": "limits child marriage",
+        "status-in-leg": "Passed",
+        "bill-num": "HB1587/HB1661/HB1586",
+        "links": "http://gencourt.state.nh.us/bill_status/billText.aspx?sy=2018&v=SP&id=1375; http://gencourt.state.nh.us/bill_status/billText.aspx?sy=2018&id=1694&txtFormat=html; http://gencourt.state.nh.us/bill_status/billText.aspx?sy=2018&id=1374&txtFormat=html",
+        "edited-details": "HB1597, HB1661, and HB1586 would appove marriages of anyone older than 16 unless one of the parties, if it wasn't for the marriage, would be guilty of sexual assault.",
+        "would-have-ended-all": "n",
+        "date": "Current",
+        "unchained-details": "In Nov. 2017, Rep. Cilley introduced HB1587 to raise the marriage age to 16. The same month, Rep. Cilley introduced HB1661 to require judges to approve marriages of 16- and 17-year-olds. Rep. Cilley also introduced HB1586 to prohibit the court from approving marriages involving a minor if the other party, but for the marriage, would be guilty of sexual assault. In March 2018, all three bills passed in the house. In May 2018, all three bills passed in the senate. The legislation now awaits the governor's signature."
+    },
     "New Jersey": {
         "status": "introduced",
         "status-in-leg": "Dead",
@@ -308,6 +338,16 @@
         "would-have-ended-all": "y",
         "date": "2017-05-01T06:00:00.000Z",
         "unchained-details": "In Feb. 2016, Asw. Nancy Munoz introduced A3091 to end all child marriage, without exceptions; Sen. Nellie Pou later introduced the senate version. A3091 passed in both houses of the legislature with overwhelming bipartisan support. But in May 2017, Gov. Christie conditionally vetoed the bill. "
+    },
+    "New Jersey 2": {
+        "status": "ends all child marriage",
+        "status-in-leg": "Passed",
+        "bill-num": "A865/S427",
+        "links": "http://www.njleg.state.nj.us/2018/Bills/A1000/865_I1.HTM; http://www.njleg.state.nj.us/2018/Bills/S0500/427_I1.HTM",
+        "edited-details": "A3091 was reintroduced as A865/S427 and has passed the legislature and with a signature from Gov. Murphy.",
+        "would-have-ended-all": "y",
+        "date": "2018-06-01T06:00:00.000Z",
+        "unchained-details": "In Jan. 2018, the bill's sponsors reintroduced the legislation, now A865/S427. On April 12, 2018, S427 passed in the senate. The legislation remains pending in the assembly. Gov. Phil Murphy has promised his support."
     },
     "New Mexico": {
         "status": "no action",
@@ -428,6 +468,16 @@
         "would-have-ended-all": "y",
         "date": "2018-03-01T07:00:00.000Z",
         "unchained-details": "In Jan. 2018, Sen. Jeff Yarbro introduced SB1790 to end all marriage before 18, without exceptions, and Rep. Darren Jernigan introduced a house version of the bill, HB1785. On March 19, 2018, the bill was amended to limit, not end, child marriage before it died in a senate committee on March 28, 2018. "
+    },
+    "Tennessee 2": {
+        "status": "limits child marriage",
+        "status-in-leg": "Passed",
+        "bill-num": "HB2134/SB2268",
+        "links": "http://publications.tnsosfiles.com/acts/110/pub/pc1049.pdf",
+        "edited-details": "Unrelated bills HB2134 and SB2268 ended marriage for children 16 and younger but allowed 17-year-olds to marry with parental consent. These bills also establish a civil cause of action for those who have left a forced-marriage. ",
+        "would-have-ended-all": "n",
+        "date": "2018-05-01T06:00:00.000Z",
+        "unchained-details": "The same day, an unrelated bill, HB2134/SB2268, was amended to end marriage for children 15 and younger. The bill would have allowed 16- and 17-year-olds to marry with parental consent if there were no more than a four-year age difference between spousal pairs. On April 25, 2018, the Tennessee legislature passed HB2134/SB2268, after it was amended to allow only 17-year-olds to marry with parental consent. The bill also establishes a civil cause of action for forced-marriage survivors. On May 21, 2018, the governor signed the bill into law."
     },
     "Texas": {
         "status": "limits child marriage",
